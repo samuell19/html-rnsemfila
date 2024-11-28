@@ -284,8 +284,8 @@ a {
 }
 
 .botao1:hover {
-    background-color: #3a7a9e; /* Cor de fundo ao passar o mouse */
-    transform: scale(1.05); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+    background-color: #3a7a9e; 
+    transform: scale(1.05); 
     cursor: pointer;
 }
 
@@ -309,8 +309,8 @@ a {
 }
 
 .botao2:hover {
-    background-color: #3a7a9e; /* Cor de fundo ao passar o mouse */
-    transform: scale(1.05); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+    background-color: #3a7a9e; 
+    transform: scale(1.05); 
     cursor: pointer;
 }
 
@@ -334,8 +334,8 @@ a {
 }
 
 .botao3:hover {
-    background-color: #3a7a9e; /* Cor de fundo ao passar o mouse */
-    transform: scale(1.05); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+    background-color: #3a7a9e; 
+    transform: scale(1.05); 
     cursor: pointer;
 }
 
